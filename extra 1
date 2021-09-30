@@ -1,0 +1,61 @@
+created one more extra pull request to be accepted by shubham singhh so that he can easily  get sawgs 
+all the best shubham 
+hope u will receive swags soon 
+i should say super duper soon 
+happy hacking
+2021
+
+
+details
+Check out DigitalOcean’s best practices for maintainers to learn how to encourage contributions and set yourself up for success this month.
+
+recommendations
+Add the 'Hacktoberfest' topic to your repository/project so that folks know you're participating in Hacktoberfest.
+Apply the 'Hacktoberfest' label to issues in your GitHub or GitLab project that are ready for contributors to work on.
+Add a CONTRIBUTING.md file with contribution guidelines to your repository.
+Choose issues that have a well-defined scope and are self-contained.
+Adopt a code of conduct to foster a greater sense of inclusion and community.
+Be ready to review pull requests, approving those that are valid, and flagging those that are not as 'invalid' or 'spam'.
+A pull request can be approved either by giving it an overall approving review from maintainers, or by merging the pull request, or adding the 'hacktoberfest-accepted' label
+
+Enable making the first contribution to your project easier. DeepSource Discover helps you list easy-to-fix but valuable code quality issues for new contributors.
+
+new this year
+We want to thank you, Maintainers, for all the hard work you do!
+
+This year Maintainers will be able to earn a t-shirt pack (the same pack contributors receive) without having to do 4 pull requests. In order to qualify you’ll need to meet our criteria, which are outlined below. This new feature of Hacktoberfest is intended to reward the actions you’re already doing when you manage your participating Hacktoberfest repositories.
+
+Criteria for a t-shirt pack:
+
+FIRST
+
+You will need to register for Hacktoberfest and select ‘Maintainer’ as your role. It’s still okay to select other roles if you participate in multiple ways.
+
+THEN
+
+On your GitHub/GitLab account you will need to show that you’ve completed 4 or more actions on unique PRs in a repository (or across multiple repos) that is (are) participating in Hacktoberfest*, they can be:
+
+• Merging the PR
+• Providing an approving review
+• Adding the 'hacktoberest-accepted' label
+• Adding any label with the word 'invalid' or 'spam'(/\b(invalid|spam)\b/i)
+*(a participating repo is one that has the ‘hacktoberfest’ topic applied.)
+
+IMPORTANT
+
+We will only send you one swag pack. If you have received a participant swag pack as a Contributor, you won’t receive an additional Maintainer swag pack and vice versa.
+
+Supplies are limited so only 10k Maintainers who complete their actions will receive a swag kit. If more than 10K maintainers qualify, they will be prioritized by the quantity of PRs they have actioned (merged, approving reviews, added labels.)
+
+After the review period has completed for the final PRs of Hacktoberfest, we will review the 10k maintainers who have been approved and send them an email with a redemption code to receive the pack.
+
+more questions?
+Check out the FAQ
+
+more resources
+GitHub
+Managing labels in your repository
+Classifying your repository with topics
+GitLab
+Managing labels for your project
+Set topics in the project settings
